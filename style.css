@@ -6,7 +6,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
 body {
     background: rgb(252, 242, 4);
 }
@@ -29,8 +28,8 @@ section::before {
     bottom: 0;
     height: 100px;
     width: 100%;
-    background: linear-gradient(to top, rgb(0, 2, 9),transparent);
-    /* background: linear-gradient(to top, rgb(252, 242, 4),transparent); */
+    background: linear-gradient(to top, rgb(0, 2, 9), transparent);
+    /* background: linear-gradient(to top, rgb(252, 242, 4), transparent); */
 }
 
 .second {
@@ -73,7 +72,6 @@ section::before {
     object-position: top;
     object-fit: cover;
 }
-
 
 #CyberpunkYellow path {
     fill: black !important;
